@@ -48,6 +48,11 @@ This design is best suited for **learning CPU basics** before moving to pipeline
 - `jal`
 
 ---
+## 🧠 Single-Cycle MIPS Datapath
+
+<img width="1219" height="951" alt="image" src="https://github.com/user-attachments/assets/74010cff-f6a9-4564-bcc1-b363b0bbc411" />
+
+---
 
 ## 🏗️ Architecture Components
 
