@@ -17,7 +17,7 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
 ├── Multi-Cycle/      # Multi-cycle MIPS processor
 ├── Pipeline/         # 5-stage pipelined MIPS processor
 └── README.md         # Project overview
-
+```
 ## 🧠 Implemented Architectures
 
 ### 🔹 Single-Cycle Processor
