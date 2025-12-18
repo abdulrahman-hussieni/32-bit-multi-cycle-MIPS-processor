@@ -121,10 +121,10 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
       </a>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/">
-        <img src="https://github.com/Ahmedmohamed360.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #9b59b6;">
+      <a href="https://github.com/ahm20201199">
+        <img src="https://github.com/ahm20201199.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #9b59b6;">
         <br><br>
-        <strong>Ahmed Ay</strong>
+        <strong>Ahmed Ali</strong>
         <br><sub>Single Cycle</sub>
       </a>
     </td>
