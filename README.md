@@ -105,8 +105,8 @@ It includes **Single-Cycle**, **Multi-Cycle**, and **5-Stage Pipelined** MIPS pr
       </a>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/">
-        <img src="https://github.com/Ahmedmohamed360.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #e74c3c;">
+      <a href="https://github.com/anasmohamed05">
+        <img src="https://github.com/anasmohamed05.png?size=200" width="110" height="110" style="border-radius:50%; border:5px solid #e74c3c;">
         <br><br>
         <strong>Anas Mohamed</strong>
         <br><sub>Single Cycle</sub>
